@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OpenCVStudy</string>
+
+    <string name="change_grey">灰度</string>
+    <string name="recovery">原图</string>
+
+    <string name="picture">图片</string>
+    <string name="video">视频</string>
+    <string name="audio">音频</string>
+
+    <string name="camera">相机</string>
+    <string name="take_a_photo">拍照</string>
+    <string name="recorder">录像</string>
+    <string name="face_detect">人脸识别</string>
+</resources>

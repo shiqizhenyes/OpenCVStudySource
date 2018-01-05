@@ -1,0 +1,262 @@
+
+{
+	"buildFiles" : [ "C:/Users/Zack/Git/OpenCVStudySource/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Zack\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Zack\\Git\\OpenCVStudySource\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"IlmImf-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "IlmImf",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libIlmImf.a",
+			"toolchain" : "3172977739"
+		},
+		"libcpufeatures-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libcpufeatures",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libcpufeatures.a",
+			"toolchain" : "3172977739"
+		},
+		"libjasper-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libjasper",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibjasper.a",
+			"toolchain" : "3172977739"
+		},
+		"libjpeg-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libjpeg",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibjpeg.a",
+			"toolchain" : "3172977739"
+		},
+		"libpng-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libpng",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibpng.a",
+			"toolchain" : "3172977739"
+		},
+		"libprotobuf-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libprotobuf",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibprotobuf.a",
+			"toolchain" : "3172977739"
+		},
+		"libtiff-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libtiff",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibtiff.a",
+			"toolchain" : "3172977739"
+		},
+		"libwebp-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libwebp",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibwebp.a",
+			"toolchain" : "3172977739"
+		},
+		"native-lib-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\Zack\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Zack\\Git\\OpenCVStudySource\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=C:/Users/Zack/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Zack/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem D:\\opencv-3.3.1-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -isystem D:\\opencv-3.3.1-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include\\opencv -isystem C:\\Users\\Zack\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\Zack\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\include -isystem C:\\Users\\Zack\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/Zack/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++14 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/Zack/Git/OpenCVStudySource/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Users/Zack/Git/OpenCVStudySource/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "C:/Users/Zack/Git/OpenCVStudySource/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so",
+			"toolchain" : "3172977739"
+		},
+		"opencv_calib3d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_calib3d",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_calib3d.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_core-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_core",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_core.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_dnn-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_dnn",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_dnn.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_features2d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_features2d",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_features2d.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_flann-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_flann",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_flann.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_highgui-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_highgui",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_highgui.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_imgcodecs-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_imgcodecs.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_imgproc-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_imgproc",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_imgproc.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_java-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_java",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_java3.so",
+			"toolchain" : "3172977739"
+		},
+		"opencv_ml-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_ml",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_ml.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_objdetect-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_objdetect",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_objdetect.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_photo-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_photo",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_photo.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_shape-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_shape",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_shape.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_stitching-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_stitching",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_stitching.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_superres-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_superres",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_superres.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_video-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_video",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_video.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_videoio-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_videoio",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_videoio.a",
+			"toolchain" : "3172977739"
+		},
+		"opencv_videostab-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_videostab",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_videostab.a",
+			"toolchain" : "3172977739"
+		},
+		"tbb-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "tbb",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libtbb.a",
+			"toolchain" : "3172977739"
+		},
+		"tegra_hal-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "tegra_hal",
+			"buildType" : "debug",
+			"output" : "D:/opencv-3.3.1-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libtegra_hal.a",
+			"toolchain" : "3172977739"
+		}
+	},
+	"toolchains" : 
+	{
+		"3172977739" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Zack/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Zack/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
