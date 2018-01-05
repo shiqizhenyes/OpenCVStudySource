@@ -15,9 +15,6 @@ android {
             cmake {
                 cppFlags "-std=c++14 -frtti -fexceptions"
             }
-//            ndk{
-//                abiFilters "armeabi-v7a","armeabi"
-//            }
         }
 
         ndk{
